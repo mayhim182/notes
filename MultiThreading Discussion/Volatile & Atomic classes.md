@@ -1,4 +1,4 @@
-Got it. **Arranged Notes (kept your touch, just structured and polished with small examples):**
+**Volatile and Atomic classes**
 
 ---
 
