@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MultiThreading Discussion/Volatile & Atomic classes.md",
+                "file": "System Design/Design a webhook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volatile & Atomic classes"
+              "title": "Design a webhook"
             }
           }
         ],
@@ -197,10 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b68c2af50f703089",
+  "active": "474269264396fb50",
   "lastOpenFiles": [
-    "MultiThreading Discussion/Quick read on Executor Framework.md",
+    "System Design/Pasted image 20250831021809.png",
+    "System Design/Pasted image 20250831021748.png",
+    "System Design/Pasted image 20250831021722.png",
+    "System Design/Pasted image 20250830221908.png",
     "MultiThreading Discussion/Volatile & Atomic classes.md",
+    "System Design/Design a webhook.md",
+    "MultiThreading Discussion/Quick read on Executor Framework.md",
     "Clean Code Notes/Chapter 1.md",
     "MultiThreading Discussion",
     "DB",
